@@ -1,6 +1,9 @@
 ## 📸 GitHub Repository UI  
-![GitHub UI](https://github.com/AnhBoHelloTeam/NhanNGpro5/blob/main/lumcay.jpg?raw=true)  
-
+<p align="center">
+  <a href="https://github.com/AnhBoHelloTeam/NhanNGpro5">
+    <img src="https://raw.githubusercontent.com/AnhBoHelloTeam/NhanNGpro5/main/path-to-image.png" width="150" height="150" style="border-radius: 50%;">
+  </a>
+</p>
 ---
 
 ## 🔗 Xem chi tiết  
