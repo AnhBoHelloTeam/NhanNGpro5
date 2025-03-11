@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/AnhBoHelloTeam/NhanNGpro5">
     <img src="https://github.com/AnhBoHelloTeam/NhanNGpro5/blob/main/lumcay.jpg?raw=true" width="150" height="150" style="border-radius: 50%;">
-    <img src="https://raw.githubusercontent.com/AnhBoHelloTeam/NhanNGpro5/main/image2.png" width="150" height="150" style="border-radius: 50%; margin-left: 10px;">
+    <img src="https://github.com/AnhBoHelloTeam/NhanNGpro5/blob/main/profile.png?raw=true" width="150" height="150" style="border-radius: 50%; margin-left: 10px;">
   </a>
 </p>
 ---
@@ -11,12 +11,6 @@
 [![Pr5 NhanNG](https://img.shields.io/badge/Xem%20Chi%20Tiết-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://anhbohelloteam.github.io/NhanNGpro5/)
 
 ---
-
-## 👋 Hi there! I am Nguyễn Thành Nhân __NhanNG__
-💻 Developer | 🚀  Always Learning & Innovating
-
-Welcome to my GitHub profile! Here's a little about me:
-
 
 ### 👋 Hi there! I am Nguyễn Thành Nhân __NhanNG__
 💻 Developer | 🚀  Always Learning & Innovating
