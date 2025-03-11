@@ -1,7 +1,7 @@
 ## 📸 GitHub Repository UI  
 <p align="center">
   <a href="https://github.com/AnhBoHelloTeam/NhanNGpro5">
-    <img src="[https://raw.githubusercontent.com/AnhBoHelloTeam/NhanNGpro5/main/path-to-image.png](https://github.com/AnhBoHelloTeam/NhanNGpro5/blob/main/lumcay.jpg?raw=true)" width="150" height="150" style="border-radius: 50%;">
+    <img src="https://github.com/AnhBoHelloTeam/NhanNGpro5/blob/main/lumcay.jpg?raw=true" width="150" height="150" style="border-radius: 50%;">
   </a>
 </p>
 ---
